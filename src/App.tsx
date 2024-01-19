@@ -13,7 +13,7 @@ function App() {
       theme={{
         algorithm: theme.darkAlgorithm,
         token: {
-          // colorPrimary: "red",
+          // colorPrimary: "orange",
           borderRadius: 20,
         },
       }}
